@@ -10,9 +10,6 @@ from aiogram import F
 from aiogram.filters import Command
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, BufferedInputFile
 
-API_TOKEN = '8043129148:AAEr3TqpPjo6W23BcNONdQEwSXgz0nFQCFM'
-PASSWORD = '140824140824'
-
 is_sending_images = False
 
 bot = Bot(token=API_TOKEN)
