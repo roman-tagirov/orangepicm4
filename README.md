@@ -9,8 +9,8 @@
 
 <h3>- READ BELOW READ BELOW IMPORTANT TO CODE TO WORK **------------------------------------**</h3>
 
-<h3>- First of all, at the top of the code make 2 variables: **API_TOKEN - token from @BotFather**</h3>
-
+<h3>- First of all, at the top of the code make 2 variables: **API_TOKEN - token from @BotFather** and PASSWORD - to use your bot.</h3>
+<h3>Change requests urls if your printer is not using Klipper and Moonraker</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
